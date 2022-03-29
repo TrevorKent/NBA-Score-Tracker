@@ -1,0 +1,11 @@
+NBA Score Tracker contains two jupyter notebook files.
+
+- The version labeled "explained" contains all the data exploration steps required to get to the final result. It is provided as a step-by-step tutorial to lead novice data scientists. The other version is the final deliverable without the exploration steps. It's the version all the "cool kids" would deliver. :)
+
+- NBA Score Tracker requires the requests library to access (get) JSON data files located on the NBA stats website.
+
+- The PrettyPrint library is used to read and format json data. Its not necessary to run the application, but very helpful when profiling the json data.
+
+- Score Tracker displays all current NBA games and scores and time on the clock. The data is updated in real-time on the website and is updated automatically at runtime with Score Tracker.
+
+- As a bonus, a team ranking report is available as a separate function within the notebook.
